@@ -27,5 +27,9 @@ Date: 22 June 2019
 
 
 
+SodokuLib RELEASE V0.0 Alpha BUILD 3 Revision 111
+Date: 22 June 2019\
+ - DEPRECATED - Continuted as SudokuLib under GitHub
+
 
 ===== end =====
